@@ -1,4 +1,4 @@
-package com.java.programming;
+package com.java.programming.basics;
 
 public class operators {
 
